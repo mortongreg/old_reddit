@@ -1,0 +1,13 @@
+{
+  "name": "Old Reddit",
+  "version": "1.0",
+  "description": "Redirects requests to www.reddit.com to old.reddit.com in order to give the user the old reddit web interface.",
+  "permissions": ["storage","webRequest","webRequestBlocking",
+    "*://reddit.com/*","*://www.reddit.com/*"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "manifest_version": 2
+}
