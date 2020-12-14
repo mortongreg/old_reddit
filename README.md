@@ -1,5 +1,4 @@
-# old_reddit
-# old_reddit [Chrome Extension](https://github.com/mortongreg/old_reddit)
+# Old Reddit [Chrome Extension](https://github.com/mortongreg/old_reddit)
 
 | Description                                                                                                    | Download           
 | -------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------|
